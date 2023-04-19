@@ -9,6 +9,7 @@
     --darkgrey: #212121; 
     --lightgrey: #757575;
     --primary-backgraund: #2F303A;
+    --body: #434455; 
     --primary-line-height: 1.19;
 }
 body {
@@ -17,7 +18,9 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
+    color: var(--body);
     line-height: var(--primary-line-height);
+    background-color: var(--white);
 }
 a.logo:focus {
     outline: solid var(--blue);
