@@ -63,7 +63,7 @@ header {
 .primary-color {
     color: var(--studio);
 }
-.primary-color:focus, .primary-color:hover {
+.link:focus, .link:hover {
     color: var(--hover-focus);
     
 }
