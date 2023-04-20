@@ -57,6 +57,9 @@ header {
 .list {
     list-style: none;
 }
+.black {
+    color: var(--studio);
+}
 .navbar a, .contacts a {
     font-weight: 500;
     font-size: 16px;
