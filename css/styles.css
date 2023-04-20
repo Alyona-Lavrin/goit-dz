@@ -29,10 +29,6 @@ body {
 a.logo:focus {
     outline: solid var(--blue);
 }
-a:focus, a:hover {
-    outline: none;
-    color: var(--blue) !important;
-}
 header {
     width: 1170px;
     margin: auto;
