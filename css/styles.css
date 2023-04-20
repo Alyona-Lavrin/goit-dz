@@ -12,6 +12,7 @@
     --lightgrey: #757575;
     --primary-backgraund: #2F303A;
     --body: #434455; 
+    --CLOUD:#F4F4FD;
     --primary-line-height: 1.19;
 }
 body {
@@ -75,9 +76,6 @@ header {
 .navbar li:last-child a {
     margin-right: 0;
 }
-/* header .contacts a {
-    color: var(--lightgrey)S
-} */
 header .contacts a:hover {
     color: var(--blue);
 }
@@ -94,7 +92,7 @@ header .contacts a:hover {
     color: var(--black);
 }
 .white {
-    color: var(--white);
+    color: var(--CLOUD);
 }
 header ul {
     display: inline-block;
