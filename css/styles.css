@@ -48,7 +48,6 @@ header {
 }
 .link {
     text-decoration: none;
-
 }
 .list {
     list-style: none;
@@ -58,7 +57,9 @@ header {
 }
 .link:focus, .link:hover {
     color: var(--hover-focus);
-    
+}
+.header-contacts {
+    font-style: normal;
 }
 .navbar a, .contacts a {
     font-weight: 500;
