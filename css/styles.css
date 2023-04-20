@@ -113,15 +113,11 @@ main {
     padding-bottom: 200px;
 }
 
-.full-width h1 {
-    width: 700px;
-    margin: auto;
-    font-size: 44px;
-    font-weight: 900;
-    line-height: 1.36;
+.full-width .main-title {
+    font-size: 56px;
+    line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
+    letter-spacing: 0.02em;
 }
 
 .full-width .order-service {
