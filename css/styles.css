@@ -121,24 +121,17 @@ main {
 }
 
 .full-width .order-service {
-    font-weight: 700;
     font-size: 16px;
-    line-height: 1.88;
     cursor: pointer;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    letter-spacing: 0.06em;
     color: var(--white);
-    background-color: var(--blue);
-    border: none;
-    height: 50px;
-    width: 216px;
-    margin: 15px auto 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: var(--logo);
 }
 .full-width .order-service:hover, .full-width .order-service:focus {
-    background-color: var(--dark-blue);
+    background-color: var(--hover-focus);
 }
 .visually-hidden {
     position: absolute;
