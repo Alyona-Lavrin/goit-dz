@@ -278,11 +278,6 @@ footer .address {
     font-style: normal;
     color: var(--white);
 }
-.navbar li a:hover 
-{
-    color: var(--blue);
-}
-
 footer ul {
     padding-left: 0;
     list-style-type: none;
