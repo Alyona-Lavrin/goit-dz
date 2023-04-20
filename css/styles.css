@@ -88,12 +88,6 @@ header .contacts a:hover {
 .mr-15 {
     margin-right: 15px;
 }
-.blue-logo {
-    color: var(--blue);
-}
-.primary-color {
-    color: var(--black);
-}
 .white {
     color: var(--CLOUD);
 }
