@@ -13,6 +13,7 @@
     --primary-backgraund: #2F303A;
     --body: #434455; 
     --CLOUD:#F4F4FD;
+    --hover-focus: #404bbf;
     --primary-line-height: 1.19;
 }
 body {
@@ -51,6 +52,7 @@ header {
 }
 .link {
     text-decoration: none;
+
 }
 .Studio {
     color: var(--studio)
@@ -60,6 +62,10 @@ header {
 }
 .primary-color {
     color: var(--studio);
+}
+.primary-color:focus, .primary-color:hover {
+    color: var(--hover-focus);
+    
 }
 .navbar a, .contacts a {
     font-weight: 500;
