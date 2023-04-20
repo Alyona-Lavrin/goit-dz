@@ -106,7 +106,7 @@ main {
     border-top:solid 1px var(--separator);
 }
 .full-width {
-    background-color: var(--primary-backgraund);
+    background-color: var(--studio);
     text-align: center;
     color: var(--white);
     padding-top: 200px;
