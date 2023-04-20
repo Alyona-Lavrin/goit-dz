@@ -57,7 +57,7 @@ header {
 .list {
     list-style: none;
 }
-.black {
+.primary-color {
     color: var(--studio);
 }
 .navbar a, .contacts a {
@@ -90,7 +90,7 @@ header .contacts a:hover {
 .blue-logo {
     color: var(--blue);
 }
-.black {
+.primary-color {
     color: var(--black);
 }
 .white {
