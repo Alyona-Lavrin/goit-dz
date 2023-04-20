@@ -79,7 +79,7 @@ header {
 header .contacts a:hover {
     color: var(--blue);
 }
-.header-contacts-email {
+.header-contacts-link {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--body);
