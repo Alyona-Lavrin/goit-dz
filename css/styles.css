@@ -72,9 +72,9 @@ header {
 .navbar li:last-child a {
     margin-right: 0;
 }
-header .contacts a {
-    color: var(--lightgrey)
-}
+/* header .contacts a {
+    color: var(--lightgrey)S
+} */
 header .contacts a:hover {
     color: var(--blue);
 }
