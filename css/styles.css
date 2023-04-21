@@ -308,7 +308,7 @@ footer ul {
     cursor: pointer;
     background-color: var(--CLOUD);
 }
-.active button:hover, .active button:focus {
+button:hover, button:focus {
     color: var(--white);
     background-color: var(--hover-focus);
 }
