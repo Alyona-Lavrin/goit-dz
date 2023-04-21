@@ -252,9 +252,8 @@ main {
     color: var(--body);
 }
 footer {
-    background-color: var(--primary-backgraund);
+    background-color: var(--studio);
     padding: 50px 0;
-    color: var(--studio);
 }
 
 footer .logo {
