@@ -234,7 +234,6 @@ main {
 
 .team .member {
     width: 260px;
-    background: var(--white);
     background-color: var(--white)
 }
 
