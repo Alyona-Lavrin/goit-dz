@@ -167,11 +167,9 @@ main {
 .why-we .features li:last-child {
     margin-right: 0;
 }
-
 .why-we div {
     padding: 0 10px;
 }
-
 .why-we-title {
     font-weight: 500;
     font-size: 20px;
@@ -179,7 +177,6 @@ main {
     letter-spacing: 0.02em;
     color: var(--studio);
 }
-
 .why-we p {
     font-size: 16px;
     line-height: 1.5;
@@ -311,10 +308,10 @@ footer ul {
     cursor: pointer;
     background-color: var(--CLOUD);
 }
-/* .tab-list li button.active, .tab-list li button:hover {
-    background-color: var(--blue);
+.active button:hover, .active button:focus {
     color: var(--white);
-} */
+    background-color: var(--hover-focus);
+}
 .projects-wrap {
     width: 1170px;
     margin: auto;
