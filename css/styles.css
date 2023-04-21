@@ -231,6 +231,7 @@ main {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
+    background-color:var(--white)
 }
 
 .team .member {
