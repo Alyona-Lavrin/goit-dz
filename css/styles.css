@@ -206,7 +206,7 @@ main {
     letter-spacing: 0.02em;
     color: var(--studio)
 }
-.projects .sub-title {
+.projects .arr {
     line-height: 1.5;
 }
 .what-we-do ul{
