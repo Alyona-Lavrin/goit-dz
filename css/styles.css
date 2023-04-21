@@ -70,7 +70,13 @@ header {
     text-decoration: none;
     margin-right: 50px;
 }
-.navbar .active {
+.active {
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--CLOUD);
+}
+.navbar {
     color: var(--blue);
 }
 .navbar li:last-child a {
