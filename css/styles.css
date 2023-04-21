@@ -230,7 +230,6 @@ main {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    background-color:var(--white)
 }
 
 .team .member {
@@ -244,8 +243,9 @@ main {
     width: 100%;
 }
 .team .vacancy {
-    font-weight: 400;
     font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     line-height: var(--primary-line-height);
     text-align: center;
     letter-spacing: 0.03em;
