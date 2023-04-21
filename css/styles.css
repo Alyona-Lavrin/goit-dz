@@ -222,6 +222,13 @@ main {
     text-transform: capitalize;
     color: var(--studio);
 }
+.title-2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--studio);
+}
 .team {
     width: 1170px;
     margin: auto;
