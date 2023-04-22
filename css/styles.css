@@ -237,6 +237,9 @@ main {
     color: var(--body);
     line-height: 1.5;
 }
+img {
+    display: block;
+}
 .team {
     width: 1170px;
     margin: auto;
