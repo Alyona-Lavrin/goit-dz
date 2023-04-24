@@ -53,6 +53,8 @@ header {
 }
 .list {
     list-style: none;
+    display: flex;
+    gap: 40px;
 }
 .primary-color {
     color: var(--studio);
@@ -80,8 +82,6 @@ header {
 }
 .navbar {
     color: var(--blue);
-    display: flex;
-    gap: 40px;
 }
 .navbar li:last-child a {
     margin-right: 0;
