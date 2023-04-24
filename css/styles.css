@@ -375,7 +375,6 @@ footer ul {
 }
 .container {
     width: 1158px;
-    display: flex;
     margin: 0 auto;
     padding: 0 15px;
 }
@@ -389,4 +388,7 @@ footer ul {
 }
 .features {
     gap: 24px;
+}
+.div-title-header {
+    display: flex;
 }
