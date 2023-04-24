@@ -50,8 +50,6 @@ header {
 }
 .link {
     text-decoration: none;
-    display: inline-block;
-    margin-bottom: 16px;
 }
 .list {
     list-style: none;
@@ -386,6 +384,8 @@ footer ul {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .left-logo {
     align-items: center;
