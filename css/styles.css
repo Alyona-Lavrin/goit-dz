@@ -363,5 +363,6 @@ footer ul {
     padding: 0 15px;
 }
 .left-logo {
+    display: flex;
     align-items: center;
 }
