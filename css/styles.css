@@ -363,6 +363,9 @@ footer ul {
     margin: 0 auto;
     padding: 0 15px;
 }
+.div-title-header {
+    width: 1158px;
+}
 .left-logo {
     align-items: center;
     display: flex;
