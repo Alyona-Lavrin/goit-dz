@@ -433,3 +433,6 @@ footer ul {
 .portfolio-tab {
     width: calc((100% - 48px) / 3);
 }
+.projects-link {
+    width: calc((100% - 48px) / 3);
+}
