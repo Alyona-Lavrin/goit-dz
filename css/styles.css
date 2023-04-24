@@ -82,6 +82,7 @@ header {
 }
 .navbar {
     color: var(--blue);
+    gap: 40px;
 }
 .navbar li:last-child a {
     margin-right: 0;
