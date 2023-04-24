@@ -415,3 +415,6 @@ footer ul {
 .what-we-do-img {
     width: calc((100% - 48px) / 3);
 }
+.portfolio-list {
+    padding: 96px 0 120px;
+}
