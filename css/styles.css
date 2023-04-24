@@ -383,3 +383,6 @@ footer ul {
 .navbar-studio {
     padding: 24px 0;
 }
+.features {
+    gap: 24px;
+}
