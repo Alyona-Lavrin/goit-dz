@@ -359,12 +359,11 @@ footer ul {
     border-bottom: 1px solid var(--title-header);
 }
 .container {
-    display: flex; 
-    width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
 }
 .left-logo {
     display: flex;
+    width: 1158px;
     align-items: center;
 }
