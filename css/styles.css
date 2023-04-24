@@ -269,7 +269,6 @@ img {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    gap: 24px;
 }
 
 .member {
