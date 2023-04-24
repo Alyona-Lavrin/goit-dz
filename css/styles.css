@@ -374,7 +374,6 @@ footer ul {
 }
 .container {
     width: 1158px;
-    display: flex;
     margin: 0 auto;
     padding: 0 15px;
 }
