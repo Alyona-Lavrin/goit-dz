@@ -407,3 +407,6 @@ footer ul {
 .address-list {
     gap: 40px;
 }
+.why-we-features {
+    width: calc((100% - 72px) / 4); 
+}
