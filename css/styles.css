@@ -15,6 +15,7 @@
     --CLOUD:#F4F4FD;
     --hover-focus: #404bbf;
     --primary-line-height: 1.19;
+    --title-header: #e7e9fc;
 }
 body {
     font-family: "Roboto", sans-serif;
@@ -350,4 +351,7 @@ footer ul {
 }
 .projects li .description {
     padding: 20px 24px;
+}
+.title-header {
+    border-bottom: 1px solid var(--title-header)
 }
