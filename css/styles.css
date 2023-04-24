@@ -358,7 +358,6 @@ footer ul {
 .title-header {
     border-bottom: 1px solid var(--title-header);
     display: flex;
-    width: 1158px;
 }
 .container {
     margin: 0 auto;
