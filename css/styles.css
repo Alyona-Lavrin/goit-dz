@@ -147,6 +147,7 @@ main {
     background-color: var(--hover-focus);
 }
 .order-service {
+    display: block;
     min-width: 169px;
     height: 56px;
     border: none;
@@ -374,6 +375,7 @@ footer ul {
 }
 .container {
     width: 1158px;
+    display: flex;
     margin: 0 auto;
     padding: 0 15px;
 }
