@@ -396,6 +396,9 @@ footer ul {
     margin: 0 auto;
     padding: 0 15px;
 }
+.container-team {
+    border: 1px solid var(--title-header);
+}
 .left-logo {
     align-items: center;
     display: flex;
