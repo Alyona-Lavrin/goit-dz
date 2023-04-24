@@ -58,6 +58,7 @@ header {
 }
 .primary-color {
     color: var(--studio);
+    padding: 24px 0;
 }
 .link:focus, .link:hover {
     color: var(--hover-focus);
