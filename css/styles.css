@@ -80,6 +80,8 @@ header {
 }
 .navbar {
     color: var(--blue);
+    display: flex;
+    gap: 40px;
 }
 .navbar li:last-child a {
     margin-right: 0;
