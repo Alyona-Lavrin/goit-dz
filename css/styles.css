@@ -47,11 +47,11 @@ header {
     vertical-align: middle;
     letter-spacing: 0.03em;
     margin-right: 76px;
-    display: inline-block;
-    margin-bottom: 16px;
 }
 .link {
     text-decoration: none;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .list {
     list-style: none;
