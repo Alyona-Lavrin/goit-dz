@@ -54,7 +54,7 @@ header {
 .list {
     list-style: none;
     display: flex;
-    gap: 40px;
+    gap: 24px; 
 }
 .primary-color {
     color: var(--studio);
