@@ -388,7 +388,6 @@ footer ul {
     align-items: center;
     display: flex;
 }
-
 .navbar-studio {
     padding: 24px 0;
 }
@@ -397,4 +396,7 @@ footer ul {
 }
 .team-wrap {
     padding: 120px 0;
+}
+.personnel {
+    padding: 32px 16px;
 }
