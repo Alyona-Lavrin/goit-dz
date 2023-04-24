@@ -46,6 +46,7 @@ header {
     color: var(--logo);
     vertical-align: middle;
     letter-spacing: 0.03em;
+    margin-right: 76px;
 }
 .link {
     text-decoration: none;
@@ -360,4 +361,8 @@ footer ul {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+}
+.left-logo {
+    display: flex;
+    align-items: center;
 }
