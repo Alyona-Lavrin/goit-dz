@@ -371,6 +371,7 @@ footer ul {
     display: flex;
     margin: 0 auto;
     padding: 0 15px;
+    width: 1158px;
 }
 .left-logo {
     align-items: center;
