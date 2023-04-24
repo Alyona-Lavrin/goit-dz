@@ -223,7 +223,8 @@ main {
     line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
-    color: var(--studio)
+    color: var(--studio);
+    margin-bottom: 8px;
 }
 .projects .arr {
     line-height: 1.5;
@@ -285,6 +286,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--body);
+    text-align: center;
 }
 footer {
     background-color: var(--studio);
