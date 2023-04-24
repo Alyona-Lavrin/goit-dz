@@ -55,6 +55,8 @@ header {
     list-style: none;
     display: flex;
     gap: 24px; 
+    justify-content: center;
+    margin-bottom: 72px;
 }
 .primary-color {
     color: var(--studio);
