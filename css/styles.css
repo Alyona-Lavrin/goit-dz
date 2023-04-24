@@ -357,12 +357,12 @@ footer ul {
 }
 .title-header {
     border-bottom: 1px solid var(--title-header);
+    display: flex;
 }
 .container {
     margin: 0 auto;
     padding: 0 15px;
 }
 .left-logo {
-    display: flex;
     align-items: center;
 }
