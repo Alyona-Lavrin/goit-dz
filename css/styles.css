@@ -356,13 +356,13 @@ footer ul {
     padding: 20px 24px;
 }
 .title-header {
-    border-bottom: 1px solid var(--title-header)
+    border-bottom: 1px solid var(--title-header);
+    width: 1158px;
 }
 .container {
     display: flex; 
     margin: 0 auto;
     padding: 0 15px;
-    width: 1158px;
 }
 .left-logo {
     display: flex;
