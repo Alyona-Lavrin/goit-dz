@@ -368,10 +368,10 @@ footer ul {
     border-bottom: 1px solid var(--title-header);
 }
 .container {
+    width: 1158px;
     display: flex;
     margin: 0 auto;
     padding: 0 15px;
-    width: 1158px;
 }
 .left-logo {
     align-items: center;
