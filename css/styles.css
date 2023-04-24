@@ -146,6 +146,12 @@ main {
 .full-width .order-service:hover, .full-width .order-service:focus {
     background-color: var(--hover-focus);
 }
+.order-service {
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px; 
+}
 .visually-hidden {
     position: absolute;
     white-space: nowrap;
