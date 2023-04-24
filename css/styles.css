@@ -379,11 +379,11 @@ footer ul {
 }
 .div-title-header {
     display: flex;
-    margin: 0 auto;
-    padding: 0 15px;
 }
 .container {
     width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 .left-logo {
     align-items: center;
@@ -403,4 +403,7 @@ footer ul {
 }
 .title-footer {
     max-width: 264px;
+}
+.address-list {
+    gap: 40px;
 }
