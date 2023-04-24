@@ -377,3 +377,7 @@ footer ul {
     align-items: center;
     display: flex;
 }
+
+.navbar-studio {
+    padding: 24px 0;
+}
