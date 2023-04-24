@@ -130,7 +130,9 @@ main {
     text-align: center;
     letter-spacing: 0.02em;
 }
-
+.main-title {
+    max-width: 496px;
+}
 .full-width .order-service {
     font-size: 16px;
     cursor: pointer;
