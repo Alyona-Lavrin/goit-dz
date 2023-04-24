@@ -57,6 +57,8 @@ header {
     gap: 24px; 
     justify-content: center;
     margin-bottom: 72px;
+    flex-wrap: wrap;
+    row-gap: 48px;
 }
 .primary-color {
     color: var(--studio);
