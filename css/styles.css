@@ -164,7 +164,9 @@ main {
     clip-path: inset(50%);
     margin: -1px;
 }
-
+.why-we {
+    padding: 120px 0;
+}
 .why-we .features {
     list-style-type: none;
     width: 1170px;
