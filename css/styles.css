@@ -83,6 +83,7 @@ a.logo:focus {
 .navbar {
     color: var(--blue);
     gap: 40px;
+    display: flex;
 }
 .navbar li:last-child a {
     margin-right: 0;
