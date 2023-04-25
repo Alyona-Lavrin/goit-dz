@@ -371,6 +371,7 @@ footer ul {
     margin-left: -19px;
     margin-right: -19px;
     padding: 0;
+    column-gap: 24px;
 }
 .projects li {
     border: solid 1px var(--grey);
