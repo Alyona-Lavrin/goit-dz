@@ -417,6 +417,7 @@ footer ul {
 }
 .title-footer {
     max-width: 264px;
+    color: var(--CLOUD);
 }
 .address-list {
     gap: 40px;
