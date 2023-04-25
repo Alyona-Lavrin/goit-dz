@@ -42,7 +42,6 @@ a.logo:focus {
     letter-spacing: 0.03em;
     margin-right: 76px;
     display: inline-block;
-    margin-bottom: 16px;
 }
 .link {
     text-decoration: none;
@@ -435,4 +434,8 @@ footer ul {
 }
 .projects-link {
     width: calc((100% - 48px) / 3);
+}
+.footer-logo {
+    display: inline-block;
+    margin-bottom: 16px;
 }
