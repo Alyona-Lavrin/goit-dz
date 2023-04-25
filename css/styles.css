@@ -179,12 +179,6 @@ main {
     margin-top: 100px;
     margin-bottom: 100px;
 }
-.why-we .features li {
-    margin-right: 30px;
-}
-.why-we .features li:last-child {
-    margin-right: 0;
-}
 .why-we div {
     padding: 0 10px;
 }
