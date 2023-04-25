@@ -30,12 +30,6 @@ body {
 a.logo:focus {
     outline: solid var(--blue);
 }
-header {
-    width: 1170px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-}
 .logo {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
