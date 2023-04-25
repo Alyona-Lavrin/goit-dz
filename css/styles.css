@@ -407,6 +407,7 @@ footer ul {
     color: var(--CLOUD);
 }
 .address-list {
+    display: flex;
     gap: 40px;
 }
 .why-we-features {
