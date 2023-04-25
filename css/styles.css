@@ -173,6 +173,9 @@ main {
 .why-we {
     padding: 120px 0;
 }
+.features {
+    width: calc((100% - 48px) / 3);
+}
 .why-we .features {
     list-style-type: none;
     width: 1170px;
