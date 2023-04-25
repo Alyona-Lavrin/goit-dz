@@ -327,6 +327,7 @@ footer ul {
     gap: 24px;
     display: flex;
     justify-content: center;
+    margin-bottom: 72px;
 }
 .tab-list li {
     display: inline-block;
