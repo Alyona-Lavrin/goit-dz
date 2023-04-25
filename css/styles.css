@@ -86,7 +86,6 @@ a.logo:focus {
 .navbar {
     color: var(--blue);
     gap: 40px;
-    padding: 24px 0;
 }
 .navbar li:last-child a {
     margin-right: 0;
@@ -400,6 +399,9 @@ footer ul {
 .left-logo {
     align-items: center;
     display: flex;
+}
+.navbar-studio {
+    padding: 24px 0;
 }
 .features {
     gap: 24px;
