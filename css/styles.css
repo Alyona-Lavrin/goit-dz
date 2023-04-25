@@ -356,12 +356,16 @@ footer ul {
     margin-bottom: 80px;
 }
 .projects {
+    list-style-type: none;
+    padding: 0;
     column-gap: 24px;
 }
 .projects li {
     border: solid 1px var(--grey);
+    width: 370px;
     box-sizing: border-box;
     display: inline-block;
+    margin: 15px;
 }
 .projects li .description {
     padding: 20px 24px;
