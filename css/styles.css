@@ -330,7 +330,7 @@ footer ul {
 /* portfolio - page*/
 
 .tab-list {
-    list-style-type: none;
+    /* list-style-type: none; */
     /* text-align: center; */
     margin-top: 95px;
     gap: 24px;
