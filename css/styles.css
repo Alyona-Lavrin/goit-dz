@@ -17,16 +17,16 @@
     --primary-line-height: 1.19;
     --title-header: #e7e9fc;
 }
-/* body {
+body {
     font-family: "Roboto", sans-serif;
     margin: 0;
     font-style: normal;
-    font-weight: 400;
+    /* font-weight: 400;
     font-size: 16px;
     color: var(--body);
     line-height: var(--primary-line-height);
-    background-color: var(--white);
-} */
+    background-color: var(--white); */
+}
 a.logo:focus {
     outline: solid var(--blue);
 }
