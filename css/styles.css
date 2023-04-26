@@ -383,7 +383,9 @@ footer ul {
     padding: 0 15px;
     border: 1px solid var(--title-header);
 }
-
+.container-team {
+    border: 1px solid var(--title-header);
+}
 .left-logo {
     align-items: center;
     display: flex;
