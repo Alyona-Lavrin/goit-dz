@@ -354,12 +354,9 @@ footer ul {
     margin-bottom: 80px;
 }
 .projects {
-    display: flex;
-    flex-wrap: wrap;
     list-style-type: none;
     padding: 0;
     column-gap: 24px;
-    row-gap: 48px;
 }
 .projects li {
     border: solid 1px var(--grey);
@@ -401,8 +398,6 @@ footer ul {
 }
 .personnel {
     padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
 }
 .title-footer {
     max-width: 264px;
