@@ -86,9 +86,9 @@ a.logo:focus {
     order: 4;
     flex-grow: 0;
 }
-.active:focus, .active:hover{ 
+/* .active:focus, .active:hover{ 
     border: 1px solid transparent;
-}
+} */
 .navbar {
     color: var(--blue);
     gap: 40px;
