@@ -69,10 +69,14 @@ a.logo:focus {
     margin-right: 50px;
 }
 .active {
-    font-family: "Roboto", sans-serif;
+    /* font-family: "Roboto", sans-serif;
     line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: var(--CLOUD);
+    letter-spacing: 0.04em; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* color: var(--CLOUD); */
     padding: 12px 24px;
     border: 1px solid var(--title-header);
     /* border-radius: 4px;  */
