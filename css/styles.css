@@ -267,7 +267,12 @@ ul {
     line-height: 1.5;
 }
 img {
-    display: block;
+    /* display: block; */
+    position: absolute;
+    width: 360px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
 }
 .team {
     width: 1170px;
