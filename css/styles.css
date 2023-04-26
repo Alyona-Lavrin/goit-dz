@@ -56,6 +56,9 @@ a.logo:focus {
 .link:focus, .link:hover {
     color: var(--hover-focus);
 }
+.header-contacts {
+    font-style: normal;
+}
 .navbar a, .contacts a {
     font-weight: 500;
     font-size: 16px;
