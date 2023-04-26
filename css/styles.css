@@ -56,7 +56,6 @@ a.logo:focus {
 .link:focus, .link:hover {
     color: var(--hover-focus);
 }
-
 .navbar a, .contacts a {
     font-weight: 500;
     font-size: 16px;
@@ -104,11 +103,13 @@ header .contacts a:hover {
     color: var(--CLOUD);
 }
 header ul {
-    display: inline-block;
     list-style-type: none;
     vertical-align: middle;
 }
 
+header ul li {
+    display: inline-block;
+}
 main {
     border-top:solid 1px var(--separator);
 }
