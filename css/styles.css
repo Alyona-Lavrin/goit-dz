@@ -103,6 +103,7 @@ header .contacts a:hover {
     color: var(--CLOUD);
 }
 header ul {
+    display: inline-block;
     list-style-type: none;
     vertical-align: middle;
 }
