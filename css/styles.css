@@ -109,9 +109,6 @@ header ul {
     vertical-align: middle;
 }
 
-header ul li {
-    display: inline-block;
-}
 main {
     border-top:solid 1px var(--separator);
 }
