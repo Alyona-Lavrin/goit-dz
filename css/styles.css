@@ -48,9 +48,6 @@ a.logo:focus {
     margin-right: 76px;
     display: inline-block;
 }
-.logo-link-f {
-    margin-bottom: 16px;
-}
 .link {
     text-decoration: none;
 }
@@ -389,7 +386,7 @@ footer {
     letter-spacing: 0.02em;
 }
 .footer-logo .logo {
-    margin-bottom: 17px;
+    margin-bottom: 16px;
 }
 .address-list {
     display: flex;
