@@ -353,6 +353,7 @@ footer {
 }
 .div-title-header {
     display: flex;
+    justify-content: space-between;
     padding: 25px 0;
 }
 .container {
@@ -362,7 +363,6 @@ footer {
     box-sizing: border-box;
 }
 .left-logo {
-    align-items: center;
     display: flex;
 }
 .navbar-studio {
