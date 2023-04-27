@@ -365,14 +365,8 @@ footer ul {
 .projects {
     list-style-type: none;
     padding: 0;
+    display: flex;
     column-gap: 24px;
-}
-.projects li {
-    border: solid 1px var(--grey);
-    width: 370px;
-    box-sizing: border-box;
-    display: inline-block;
-    margin: 15px;
 }
 .projects li .description {
     padding: 20px 24px;
@@ -429,6 +423,7 @@ footer ul {
     width: calc((100% - 48px) / 3);
 }
 .projects-link {
+    border: solid 1px var(--grey);
     width: calc((100% - 48px) / 3);
 }
 .footer-logo {
