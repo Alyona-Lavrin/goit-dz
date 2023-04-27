@@ -421,7 +421,6 @@ footer ul {
 }
 .projects-link {
     border: solid 1px var(--grey);
-    width: calc((100% - 48px) / 3);
 }
 .footer-logo {
     display: inline-block;
