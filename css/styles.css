@@ -354,6 +354,7 @@ footer {
 .title-header .div-title-header {
     display: flex;
     justify-content: space-between;
+    margin: 25px auto;
 }
 .container {
     width: 1158px;
