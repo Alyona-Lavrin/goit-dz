@@ -342,7 +342,7 @@ footer {
     list-style-type: none;
     padding: 0;
     display: flex;
-    grid-template-columns: 1fr 1fr 1fr;
+    flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
 }
@@ -406,6 +406,8 @@ footer {
 }
 .projects-link {
     border: solid 1px var(--grey);
+    width: calc((100% - 48px) / 3);
+    box-sizing: border-box;
 }
 .navbar-link {
     padding: 24px 0;
