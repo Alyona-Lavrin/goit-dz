@@ -379,6 +379,7 @@ footer {
 }
 .title-footer {
     color: var(--CLOUD);
+    line-height: 24px;
 }
 .footer-logo .logo {
     margin-bottom: 17px;
