@@ -20,12 +20,12 @@
 body {
     font-family: "Roboto", sans-serif;
     margin: 0;
-    /* font-style: normal; */
-    /* font-weight: 400;
+    font-style: normal; 
+    font-weight: 400;
     font-size: 16px;
     color: var(--body);
     line-height: var(--primary-line-height);
-    background-color: var(--white); */
+    background-color: var(--white);
 }
 a.logo:focus {
     outline: solid var(--blue);
@@ -69,26 +69,26 @@ a.logo:focus {
     margin-right: 50px;
 }
 .active {
-    /* font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     line-height: 1.5;
-    letter-spacing: 0.04em; */
+    letter-spacing: 0.04em;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    /* color: var(--CLOUD); */
+    color: var(--CLOUD);
     padding: 12px 24px;
     border: 1px solid var(--title-header);
-    /* width: 126px;
-    height: 48px; */
+    width: 126px;
+    height: 48px;
     border-radius: 4px;
     flex: none;
     order: 4;
     flex-grow: 0;
 }
-/* .active:focus, .active:hover{ 
+.active:focus, .active:hover{ 
     border: 1px solid transparent;
-} */
+}
 .navbar {
     color: var(--blue);
     gap: 40px;
@@ -329,11 +329,9 @@ footer ul {
 .class-footer {
     background-color: var(--studio);
 }
-/* portfolio - page*/
-
 .tab-list {
-    /* list-style-type: none; */
-    /* text-align: center; */
+    list-style-type: none; 
+    text-align: center;
     margin-top: 95px;
     gap: 24px;
     display: flex;
@@ -344,11 +342,11 @@ footer ul {
     display: inline-block;
 }
 .tab-list li button {
-    /* font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto' sans-serif;
     font-weight: 500;
-    font-size: 16px; */
+    font-size: 16px;
     line-height: 1.5;
-    /* text-align: center; */
+    text-align: center;
     letter-spacing: 0.04em;
     height: 38px;
     color: var(--logo);
@@ -365,7 +363,7 @@ footer ul {
     margin-bottom: 80px;
 }
 .projects {
-    /* list-style-type: none; */
+    list-style-type: none;
     padding: 0;
     column-gap: 24px;
 }
@@ -389,11 +387,11 @@ footer ul {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    /* border: 1px solid var(--title-header); */
-}
-/* .container-team {
     border: 1px solid var(--title-header);
-} */
+}
+.container-team {
+    border: 1px solid var(--title-header);
+}
 .left-logo {
     align-items: center;
     display: flex;
@@ -424,9 +422,9 @@ footer ul {
 .what-we-do-img {
     width: calc((100% - 48px) / 3);
 }
-/* .portfolio-list {
+.portfolio-list {
     padding: 96px 0 120px;
-} */
+}
 .portfolio-tab {
     width: calc((100% - 48px) / 3);
 }
