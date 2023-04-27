@@ -350,11 +350,12 @@ footer {
 }
 .title-header {
     border-bottom: 1px solid var(--title-header);
+    padding: 25px 0;
 }
 .title-header .div-title-header {
     display: flex;
     justify-content: space-between;
-    margin: 25px auto;
+    margin: 0 auto;
 }
 .container {
     width: 1158px;
