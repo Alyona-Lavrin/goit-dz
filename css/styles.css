@@ -379,10 +379,10 @@ footer {
     padding: 32px 16px;
 }
 .title-footer {
-    width: 264px;
+    /* width: 264px;
     height: 72px;
     left: 156px;
-    top: 1904px;
+    top: 1904px; */
     color: var(--CLOUD);
 }
 .address-list {
