@@ -268,11 +268,6 @@ ul {
     color: var(--body);
     line-height: 1.5;
 }
-img {
-    display: block;
-    width: 360px;
-    height: 300px;
-}
 .team {
     width: 1170px;
     margin: auto;
