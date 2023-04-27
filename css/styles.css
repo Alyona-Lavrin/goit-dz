@@ -17,6 +17,10 @@
     --primary-line-height: 1.19;
     --title-header: #e7e9fc;
 }
+h1, h2, h3, p {
+    padding: 0;
+    margin: 0;
+}
 body {
     font-family: "Roboto", sans-serif;
     margin: 0;
