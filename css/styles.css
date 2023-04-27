@@ -365,7 +365,8 @@ footer ul {
 .projects {
     list-style-type: none;
     padding: 0;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 24px;
 }
 .projects li .description {
