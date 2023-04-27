@@ -23,10 +23,10 @@ body {
     font-style: normal; 
     font-weight: 400;
     font-size: 16px;
-    color: var(--body);
+    color: var(--CLOUD);
     line-height: 24px;
     letter-spacing: 0.02em;
-    background-color: var(--white);
+    /* background-color: var(--white); */
 }
 a.logo:focus {
     outline: solid var(--blue);
