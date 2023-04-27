@@ -80,8 +80,7 @@ a.logo:focus {
     color: var(--CLOUD);
     padding: 12px 24px;
     border: 1px solid var(--title-header);
-    width: 126px;
-    height: 48px;
+    padding: 12px 24px;
     border-radius: 4px;
     flex: none;
     order: 4;
