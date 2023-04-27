@@ -365,6 +365,7 @@ footer {
 }
 .left-logo {
     display: flex;
+    align-items: center;
 }
 .navbar-studio {
     padding: 24px 0;
