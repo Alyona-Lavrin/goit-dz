@@ -24,7 +24,8 @@ body {
     font-weight: 400;
     font-size: 16px;
     color: var(--body);
-    line-height: var(--primary-line-height);
+    line-height: 24px;
+    letter-spacing: 0.02em;
     background-color: var(--white);
 }
 a.logo:focus {
