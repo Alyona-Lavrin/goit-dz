@@ -145,6 +145,8 @@ main {
 }
 .main-title {
     max-width: 496px;
+    margin: auto;
+    margin-bottom: 48px;
 }
 .full-width .order-service {
     font-size: 16px;
@@ -165,6 +167,7 @@ main {
     height: 56px;
     border: none;
     border-radius: 4px; 
+    margin: auto;
 }
 .visually-hidden {
     position: absolute;
