@@ -47,7 +47,6 @@ a.logo:focus {
     letter-spacing: 0.03em;
     margin-right: 76px;
     display: inline-block;
-    margin-bottom: 16px;
 }
 .link {
     text-decoration: none;
@@ -71,7 +70,6 @@ a.logo:focus {
     letter-spacing: 0.02em;
     color: var(--studio);
     text-decoration: none;
-    margin-right: 50px;
 }
 .active {
     font-family: "Roboto", sans-serif;
@@ -355,6 +353,7 @@ footer {
 }
 .div-title-header {
     display: flex;
+    padding: 25px 0;
 }
 .container {
     width: 1158px;
@@ -404,10 +403,6 @@ footer {
 .projects-link {
     border: solid 1px var(--grey);
 }
-/* .footer-logo {
-    display: inline-block;
-    margin-bottom: 16px;
-} */
 .navbar-link {
     padding: 24px 0;
 }
