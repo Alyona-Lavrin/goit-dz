@@ -231,7 +231,7 @@ main {
     margin-bottom: 8px;
 }
 .text-left {
-    text-align: none;
+    text-align: left;
 }
 .projects .arr {
     line-height: 1.5;
