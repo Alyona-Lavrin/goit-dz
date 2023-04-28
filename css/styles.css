@@ -190,8 +190,6 @@ main {
     margin: auto;
     display: flex;
     justify-content: space-between;
-    margin-top: 100px;
-    margin-bottom: 100px;
 }
 .why-we div {
     padding: 0 10px;
