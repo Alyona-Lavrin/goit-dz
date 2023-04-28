@@ -32,9 +32,9 @@ body {
     letter-spacing: 0.02em;
     /* background-color: var(--white); */
 }
-/* a.logo:focus {
-    outline: solid var(--blue);
-} */
+a.logo:focus {
+    outline: none;
+}
 .logo {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
