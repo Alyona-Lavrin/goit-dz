@@ -319,7 +319,6 @@ footer {
     line-height: 1.5;
     text-align: center;
     letter-spacing: 0.04em;
-    height: 38px;
     color: var(--logo);
     cursor: pointer;
     background-color: var(--CLOUD);
