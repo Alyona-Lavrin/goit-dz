@@ -57,9 +57,9 @@ a.logo:focus {
 .primary-color {
     color: var(--studio);
 }
-/* .link:focus, .link:hover {
+.link:focus, .link:hover {
     color: var(--hover-focus);
-} */
+}
 .header-contacts {
     font-style: normal;
 }
