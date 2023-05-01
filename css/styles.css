@@ -467,3 +467,6 @@ footer {
     display: flex;
     gap: 24px; 
 }
+.client-title {
+    height: 88px;
+}
