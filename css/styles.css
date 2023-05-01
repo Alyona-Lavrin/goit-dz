@@ -453,3 +453,13 @@ footer {
 .social-icon-itfl {
     fill: var(--block-background);
 }
+.customers {
+    padding-top: 120px; 
+    padding-bottom: 120px;
+}
+.title-customers {
+    font-size: 36px;
+    line-height: 1.1;
+    color: var(--studio);
+    margin-bottom: 72px;
+}
