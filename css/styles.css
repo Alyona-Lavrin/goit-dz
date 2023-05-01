@@ -448,6 +448,8 @@ footer {
     justify-content: center; 
 }
 .icon-itfl:hover .icon-itfl:focus {
-    color: white;
-    background-color: #404bbf; 
+    background-color: var(--hover-focus); 
+}
+.social-icon-itfl {
+    fill: var(--block-background);
 }
