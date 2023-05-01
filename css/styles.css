@@ -17,6 +17,7 @@
     --primary-line-height: 1.19;
     --title-header: #e7e9fc;
     --block-background: #f4f4fd;
+    --LIGHT-SLATE:#8e8f99;
 }
 h1, h2, h3, ul, p {
     padding: 0;
@@ -469,4 +470,18 @@ footer {
 }
 .client-title {
     height: 88px;
+}
+.client-icon {
+    width: 100%;
+    height: 100%;
+    border: 1px solid var(--LIGHT-SLATE);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--LIGHT-SLATE);
+}
+.client-icon:focus .client-icon:hover {
+    border-color: var(--hover-focus);
+    color: var(--hover-focus);
 }
