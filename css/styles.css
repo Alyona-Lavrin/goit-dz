@@ -400,6 +400,9 @@ footer {
     display: flex;
     align-items: baseline;
 }
+.container-logo {
+    margin-right: 120px;
+}
 .footer-icon {
     font-weight: 500;
     font-size: 16px;
