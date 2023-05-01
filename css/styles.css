@@ -449,5 +449,5 @@ footer {
 }
 .icon-itfl:hover .icon-itfl:focus {
     color: white;
-    background-color: var(--hover-focus);
+    background-color: #404bbf; 
 }
