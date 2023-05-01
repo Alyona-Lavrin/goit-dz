@@ -486,3 +486,6 @@ footer {
     border-color: var(--hover-focus);
     color: var(--hover-focus);
 }
+.icon-customer {
+    fill: currentColor;
+}
