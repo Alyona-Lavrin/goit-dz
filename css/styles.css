@@ -448,5 +448,6 @@ footer {
     justify-content: center; 
 }
 .icon-itfl:hover .icon-itfl:focus {
+    color: white;
     background-color: var(--hover-focus);
 }
