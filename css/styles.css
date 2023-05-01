@@ -16,6 +16,7 @@
     --hover-focus: #404bbf;
     --primary-line-height: 1.19;
     --title-header: #e7e9fc;
+    --block-background: #f4f4fd;
 }
 h1, h2, h3, ul, p {
     padding: 0;
@@ -414,4 +415,13 @@ footer {
 }
 .navbar-link {
     padding: 24px 0;
+}
+.why-we-cont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: var(--block-background);
+    border-radius: 4px;
+    margin-bottom: 8px; 
 }
