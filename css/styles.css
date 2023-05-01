@@ -469,6 +469,7 @@ footer {
     gap: 24px; 
 }
 .client-title {
+    width: calc((100% - 120px) / 6);
     height: 88px;
 }
 .client-icon {
