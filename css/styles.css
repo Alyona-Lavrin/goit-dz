@@ -135,7 +135,7 @@ main {
     padding-top: 200px;
     padding-bottom: 200px;
     padding: 188px 0;
-    
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/icons.svg/img-name.svg);
 }
 
 .full-width .main-title {
