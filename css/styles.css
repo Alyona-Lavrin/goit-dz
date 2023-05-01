@@ -447,6 +447,6 @@ footer {
     align-items: center; 
     justify-content: center; 
 }
-.icon:hover .icon:focus {
+.social-icon:hover .social-iconicon:focus {
     background-color: var(--hover-focus);
 }
