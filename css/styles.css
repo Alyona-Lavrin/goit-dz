@@ -462,6 +462,7 @@ footer {
     display: flex;
     align-items: center; 
     justify-content: center; 
+    gap: 16px;
 }
 .icon-itfl:hover .icon-itfl:focus {
     background-color: var(--hover-focus); 
