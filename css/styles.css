@@ -508,6 +508,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 16px;
     color: var(--LIGHT-SLATE); 
 }
 .client-icon:focus, .client-icon:hover {
