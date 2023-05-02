@@ -18,6 +18,7 @@
     --title-header: #e7e9fc;
     --block-background: #f4f4fd;
     --LIGHT-SLATE:#8e8f99;
+    --social-icon-footer: #31d0aa;
 }
 h1, h2, h3, ul, p {
     padding: 0;
@@ -466,6 +467,9 @@ footer {
 }
 .icon-itfl:hover, .icon-itfl:focus {
     background-color: var(--hover-focus); 
+}
+.social-icon-footer:hover, .social-icon-footer:focus {
+    background-color: var(--social-icon-footer)
 }
 .social-icon-itfl {
     fill: var(--block-background);
