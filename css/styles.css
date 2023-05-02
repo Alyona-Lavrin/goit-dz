@@ -498,7 +498,7 @@ footer {
     justify-content: center;
     color: var(--LIGHT-SLATE);
 }
-.client-icon:focus .client-icon:hover {
+.client-icon:focus, .client-icon:hover {
     border-color: var(--hover-focus);
     color: var(--hover-focus);
 }
