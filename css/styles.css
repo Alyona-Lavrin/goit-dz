@@ -513,7 +513,7 @@ footer {
     gap: 16px;
     color: var(--LIGHT-SLATE); 
 }
-.client-icon:focus, .client-icon:hover {
+.client-title:focus, .client-title:hover {
     border-color: var(--hover-focus);
     color: var(--hover-focus);
 }
