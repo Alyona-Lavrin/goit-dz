@@ -277,7 +277,6 @@ ul {
     letter-spacing: 0.02em;
     color: var(--body);
     line-height: 1.5;
-    transform: translateY(0%);
 }
 .team {
     width: 1170px;
@@ -402,6 +401,7 @@ footer {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none; 
+    transform: translateY(0%);
 }
 .title-footer {
     color: var(--CLOUD);
