@@ -389,6 +389,7 @@ footer {
     height: 4px;
     background-color: var(--hover-focus);
     border-radius: 2px;
+    width: 100%;
 }
 .features {
     gap: 24px;
@@ -564,4 +565,9 @@ footer {
     opacity: 0;
     visibility: hidden; 
     pointer-events: none;
+}
+.modal-window {
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
