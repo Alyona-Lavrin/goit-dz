@@ -33,7 +33,6 @@ body {
     color: var(--CLOUD);
     line-height: 24px;
     letter-spacing: 0.02em;
-    /* background-color: var(--white); */
 }
 a.logo:focus {
     outline: none;
@@ -507,7 +506,6 @@ footer {
     justify-content: center;
     color: var(--LIGHT-SLATE);
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
-
 }
 .list-contact {
     width: 100%;
