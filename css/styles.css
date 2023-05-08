@@ -378,6 +378,7 @@ footer {
 .navbar-studio {
     padding: 24px 0;
     position: relative;
+    color: #404bbf;
 }
 .features {
     gap: 24px;
