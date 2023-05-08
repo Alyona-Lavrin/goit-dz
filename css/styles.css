@@ -446,6 +446,7 @@ footer {
 }
 .navbar-link {
     padding: 24px 0;
+    position: relative;
 }
 .why-we-cont {
     display: flex;
