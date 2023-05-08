@@ -283,6 +283,7 @@ ul {
     overflow: hidden;
 }
 .text-picture {
+    box-sizing: border-box;
     position: absolute; 
     top: 0;
     font-size: 16px;
