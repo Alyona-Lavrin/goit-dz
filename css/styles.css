@@ -16,9 +16,9 @@
     --hover-focus: #404bbf;
     --primary-line-height: 1.19;
     --title-header: #e7e9fc;
-    --block-background: #f4f4fd;
     --LIGHT-SLATE:#8e8f99;
     --social-icon-footer: #31d0aa;
+    --modal: #fcfcfc;
 }
 h1, h2, h3, ul, p {
     padding: 0;
@@ -570,4 +570,11 @@ footer {
     position: absolute;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    width: 408px;
+    min-height: 576px;
+    background: var(--modal);
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 4px; 
+    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
