@@ -445,6 +445,8 @@ footer {
 }
 .navbar-link {
     padding: 24px 0;
+    position: relative;
+    color: var(--hover-focus);
 }
 .navbar-link::after {
     content: '';
