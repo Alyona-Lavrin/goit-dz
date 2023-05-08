@@ -383,12 +383,12 @@ footer {
 }
 .navbar-studio::after {
     content: '';
-    position: absolute; 
-    left: 0; 
+    position: absolute;
+    left: 0;
     bottom: -1px; 
-    height: 4px; 
+    height: 4px;
     background-color: var(--hover-focus);
-    border-radius: 2px; 
+    border-radius: 2px;
 }
 .features {
     gap: 24px;
@@ -445,6 +445,15 @@ footer {
 }
 .navbar-link {
     padding: 24px 0;
+}
+.navbar-link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -1px; 
+    height: 4px;
+    background-color: var(--hover-focus);
+    border-radius: 2px;
 }
 .why-we-cont {
     display: flex;
