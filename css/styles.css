@@ -96,6 +96,7 @@ a.logo:focus {
     color: var(--blue);
     gap: 40px;
     display: flex;
+    position: relative;
 }
 .navbar li:last-child a {
     margin-right: 0;
@@ -446,7 +447,6 @@ footer {
 }
 .navbar-link {
     padding: 24px 0;
-    position: relative;
 }
 .why-we-cont {
     display: flex;
