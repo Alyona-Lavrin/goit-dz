@@ -636,3 +636,16 @@ a.active-link:after {
     background: var(--logo);
     border-radius: 4px;
 }
+.text-subscribe {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: var(--white);
+
+}
