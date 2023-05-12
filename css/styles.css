@@ -64,6 +64,7 @@ a.logo:focus {
 }
 .header-contacts {
     font-style: normal;
+    padding: 24px 0;
 }
 .navbar a {
     font-weight: 500;
