@@ -643,8 +643,6 @@ a.active-link:after {
     border-radius: 4px;
 }
 .text-subscribe {
-    font-weight: 500;
-    font-size: 16px;
     color: var(--white);
     letter-spacing: 0.02em;
 }
