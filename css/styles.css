@@ -634,5 +634,7 @@ a.active-link:after {
 .text-subscribe {
     letter-spacing: 0.04em;
     color: var(--white);
-
+}
+.subscribe-img {
+padding: 10px 24px 10px 16px;
 }
