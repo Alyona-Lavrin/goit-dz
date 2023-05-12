@@ -626,6 +626,12 @@ a.active-link:after {
 .img-modal-window {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
+.footer-icon {
+    box-sizing: border-box;
+    border: 1px solid #FFFFFF;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+    border-radius: 4px;
+}
 .subscribe-button {
     padding: 8px 24px;
     background: var(--logo);
