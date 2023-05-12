@@ -629,9 +629,6 @@ a.active-link:after {
 .container-social {
     margin-right: 80px;
 }
-.subscribe {
-    display: flex;
-}
 .subscribe-button {
     padding: 8px 24px;
     background: var(--logo);
