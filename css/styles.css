@@ -643,12 +643,11 @@ a.active-link:after {
     border-radius: 4px;
 }
 .text-subscribe {
-    font-size: 12px;
+    font-weight: 500;
+    font-size: 16px;
     line-height: 24px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.04em;
     color: var(--white);
+    letter-spacing: 0.02em;
 }
 .subscribe-img {
     padding: 10px 24px 10px 16px;
