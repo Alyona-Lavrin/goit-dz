@@ -646,8 +646,26 @@ a.active-link:after {
 .subscribe-img {
     padding: 10px 24px 10px 16px;
 }
-.form-title {
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: var(--studio);
+.form-icon {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    transition: 400ms;
+    pointer-events: none;
+}
+.form-field {
+    width: 100%;
+    height: 40px;
+    padding: 0;
+    padding-left: 46px;
+    outline: transparent;
+    outline-offset: -1px;
+    border-radius: 6px;
+    border: 1px solid;
+    transition: 400ms;
+}
+.form-wrapper {
+    position: relative;
+    margin-bottom: 10px;
 }
