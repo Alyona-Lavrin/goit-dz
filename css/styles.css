@@ -591,6 +591,7 @@ a.active-link:after {
     pointer-events: none;
 }
 .modal-window {
+    box-sizing: border-box;
     position: absolute;
     top: calc(50%);
     left: calc(50%);
