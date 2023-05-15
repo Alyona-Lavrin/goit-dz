@@ -717,3 +717,6 @@ a.active-link:after {
     order: 1;
     flex-grow: 0;
 }
+.textarea {
+    width: 100%;
+} 
