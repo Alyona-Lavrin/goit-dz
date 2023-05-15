@@ -697,6 +697,7 @@ a.active-link:after {
     border-radius: 4px;
     margin: auto;
     display: block;
+    border: none;
 }
 .sub-title-modal {
     font-weight: 400;
