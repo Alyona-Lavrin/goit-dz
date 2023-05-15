@@ -678,3 +678,13 @@ a.active-link:after {
     font-size: 16px;
     text-align: center;
 }
+.button-send {
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    left: 635px;
+    top: 584px;
+    background: var(--logo);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
