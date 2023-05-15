@@ -705,3 +705,14 @@ a.active-link:after {
     order: 1;
     flex-grow: 0;
 }
+.chec-title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.04em;
+    color: var(--LIGHT-SLATE);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    }
