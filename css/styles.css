@@ -719,6 +719,7 @@ a.active-link:after {
     flex: none;
     order: 1;
     flex-grow: 0;
+    margin-bottom: 24px;
 }
 .textarea {
     width: 100%;
