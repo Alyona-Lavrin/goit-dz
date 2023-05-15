@@ -734,7 +734,7 @@ a.active-link:after {
     padding: 8px 16px;
     box-sizing: border-box;
 } 
-.textarea:focus + .form-icon {
+.form-field:focus + .form-icon {
     fill: var(--logo);
 }
 .privacy-policy {
