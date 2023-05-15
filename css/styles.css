@@ -736,6 +736,7 @@ a.active-link:after {
 } 
 .form-field:focus + .form-icon {
     fill: var(--logo);
+    transition: 400ms;
 }
 .privacy-policy {
     color: var(--logo);
