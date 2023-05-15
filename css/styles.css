@@ -727,3 +727,6 @@ a.active-link:after {
     padding: 8px 16px;
     box-sizing: border-box;
 } 
+.privacy-policy {
+    color: var(--logo);
+}
