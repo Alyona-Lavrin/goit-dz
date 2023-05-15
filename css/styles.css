@@ -734,8 +734,8 @@ a.active-link:after {
     padding: 8px 16px;
     box-sizing: border-box;
 } 
-.textarea:focus-visible {
-    border-color: var(--logo);
+.textarea:focus + .form-icon {
+    fill: var(--logo);
 }
 .privacy-policy {
     color: var(--logo);
