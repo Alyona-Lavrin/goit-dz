@@ -644,6 +644,9 @@ a.active-link:after {
     align-items: center;
     background: var(--logo);
     border-radius: 4px;
+    width: 165px;
+    height: 40px;
+    border-color: var(--logo);
 }
 .e-mail-subscribe {
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
