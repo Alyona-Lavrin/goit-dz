@@ -679,6 +679,11 @@ a.active-link:after {
     text-align: center;
 }
 .button-send {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: var(--white);
     padding: 16px 32px;
     width: 169px;
     height: 56px;
