@@ -767,4 +767,5 @@ a.active-link:after {
     display: flex;
     align-items: center;
     letter-spacing: 0.04em;
+    padding: 8px 16px;
 }
