@@ -722,6 +722,6 @@ a.active-link:after {
     resize: none;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
-    padding: 8px 40px;
+    padding: 8px 16px;
     box-sizing: border-box;
 } 
