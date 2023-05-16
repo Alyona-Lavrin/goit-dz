@@ -813,6 +813,6 @@ a.active-link:after {
     font-weight: 400;
     font-size: 12px;
     line-height: 14px;
-    color: rgba(46, 47, 66, 0.4);
+    color: var(--LIGHT-SLATE);
     letter-spacing: 0.04em;
 }
