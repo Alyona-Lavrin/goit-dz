@@ -773,3 +773,6 @@ a.active-link:after {
     color: var(--white);
     letter-spacing: 0.04em;
 }
+*,::after, ::before {
+    box-sizing: border-box;
+ }
