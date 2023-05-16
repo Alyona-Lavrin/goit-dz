@@ -720,9 +720,6 @@ a.active-link:after {
     line-height: 14px;
     letter-spacing: 0.04em;
     color: var(--LIGHT-SLATE);
-    flex: none;
-    order: 1;
-    flex-grow: 0;
 }
 .chec-title {
     font-style: normal;
@@ -788,3 +785,18 @@ a.active-link:after {
 *,::after, ::before {
     box-sizing: border-box;
  }
+
+.unchecked {
+    opacity: 1;
+    transition: 300ms;
+  }
+  .checked {
+    opacity: 0;
+    transition: 300ms;
+  }
+  .sub-title-modal:checked + .form-custom-check > .unchecked {
+    opacity: 0;
+  }
+  .sub-title-modal:checked + .form-custom-check > .checked {
+    opacity: 1;
+  }
