@@ -814,5 +814,5 @@ a.active-link:after {
     font-size: 12px;
     line-height: 14px;
     color: var(--LIGHT-SLATE);
-    letter-spacing: 0.04em;
+    letter-spacing: 0.06em;
 }
