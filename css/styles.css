@@ -808,6 +808,6 @@ a.active-link:after {
     vertical-align: middle;
   }
   .textarea::placeholder {
-    color: var(--white);
+    color: rgba(46, 47, 66, 0.4);
     letter-spacing: 0.04em;
 }
