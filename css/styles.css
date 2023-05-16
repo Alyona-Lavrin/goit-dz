@@ -800,3 +800,9 @@ a.active-link:after {
   .sub-title-modal:checked + .form-custom-check > .checked {
     opacity: 1;
   }
+  .form-custom-check {
+    vertical-align: middle;
+  }
+  .form-agreement-text {
+    vertical-align: middle;
+  }
