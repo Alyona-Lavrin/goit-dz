@@ -807,3 +807,7 @@ a.active-link:after {
   .form-agreement-text {
     vertical-align: middle;
   }
+  .textarea::placeholder {
+    color: var(--white);
+    letter-spacing: 0.04em;
+}
