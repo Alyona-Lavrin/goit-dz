@@ -648,6 +648,7 @@ a.active-link:after {
     width: 165px;
     height: 40px;
     border-color: var(--logo);
+    border: none;
 }
 .e-mail-subscribe {
     color: var(--white);
