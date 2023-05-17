@@ -654,6 +654,7 @@ a.active-link:after {
 }
 .subscribe-button:focus, .subscribe-button:hover {
     background-color: var(--hover-focus);
+    transition: 350ms;
 }
 .e-mail-subscribe {
     color: var(--white);
@@ -689,6 +690,7 @@ a.active-link:after {
 }
 .form-field:hover, .form-field:focus {
     border-color: var(--logo);
+    transition: 350ms;
 }
 .form-wrapper {
     position: relative;
@@ -723,6 +725,7 @@ a.active-link:after {
 }
 .button-send:focus, .button-send:hover {
     background-color: var(--hover-focus);
+    transition: 350ms;
 }
 .sub-title-modal {
     font-weight: 400;
