@@ -634,6 +634,8 @@ a.active-link:after {
     margin-right: 80px;
 }
 .subscribe-button {
+    font-family: 'Roboto';
+    font-style: normal;
     color: var(--white);
     font-weight: 500;
     font-size: 16px;
@@ -649,6 +651,9 @@ a.active-link:after {
     height: 40px;
     border-color: var(--logo);
     border: none;
+}
+.subscribe-button:focus, .subscribe-button:hover {
+    background-color: var(--hover-focus);
 }
 .e-mail-subscribe {
     color: var(--white);
