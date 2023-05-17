@@ -722,6 +722,9 @@ a.active-link:after {
     display: block;
     border: none;
 }
+.button-send:focus, .button-send:hover {
+    background-color: var(--hover-focus);
+}
 .sub-title-modal {
     font-weight: 400;
     font-size: 12px;
