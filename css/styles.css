@@ -657,9 +657,7 @@ a.active-link:after {
 }
 .e-mail-subscribe {
     color: var(--white);
-    display: block;
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
-    border-radius: 4px;
+    font-weight: 500;
     margin-bottom: 16px;
     letter-spacing: 0.02em;
 }
