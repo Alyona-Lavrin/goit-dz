@@ -874,5 +874,14 @@ a.active-link:after {
    .container {
     width: 100%;
    }
-    
+   .why-we .features {
+    width: 100%;
+    flex-wrap: wrap;
+   }
+   .why-we-features {
+    width: calc((100% - 72px) / 2);
+   }
+   .why-we-cont {
+    display: none;
+   }
   }
