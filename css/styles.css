@@ -889,7 +889,7 @@ a.active-link:after {
       min-width: 1128px;
     }
   }
-  /* .team-list, .sub-title, .why-we-title, .title {
+   .team-list, .sub-title, .why-we-title, .title {
     margin-bottom: 8px;
     color: var(--secondary-color);
     font-weight: 500;
@@ -934,7 +934,7 @@ a.active-link:after {
 
 
 
-  .team-icon-link:hover,
+  /* .team-icon-link:hover,
   .team-icon-link:focus {
     background-color: var(--portfolio-btn-background-accent);
   }
@@ -1002,4 +1002,4 @@ a.active-link:after {
     .customers-item {
       width: calc((100% - 120px) / 6);
     }
-  } */
+  }  */
