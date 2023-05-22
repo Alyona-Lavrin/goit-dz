@@ -889,7 +889,7 @@ a.active-link:after {
       min-width: 1128px;
     }
   }
-   .team-list, .sub-title, .why-we-title, .title {
+   /* .team-list, .sub-title, .why-we-title, .title {
     margin-bottom: 8px;
     color: var(--secondary-color);
     font-weight: 500;
@@ -929,7 +929,7 @@ a.active-link:after {
   }
   .social-icon-itfl {
     fill: var(--main-white);
-  }
+  } */
 
 
 
