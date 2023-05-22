@@ -887,4 +887,9 @@ a.active-link:after {
    .what-we-do {
     display: none;
    }
+   .team-list {
+    flex-wrap: wrap;
+    justify-content: center;
+   }
+   
   }
