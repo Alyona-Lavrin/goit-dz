@@ -87,7 +87,27 @@
             <div class="container">    
             <h2 class="title">What are we doing</h2>
             <ul class="list">
-                <li class="what-we-do-img"><img src="./images/1.png" alt="картинка 1" width="360" height="294"></li>
+                <li class="what-we-do-img">
+                    <picture>
+                        <!-- desc -->
+                        <source
+                          media="(min-width: 1158px)"
+                          srcset="
+                            ./images/1-@x1.png 1x,
+                            ./images/1-@x2.png 2x
+                          "
+                          type="image/jpg"
+                        />
+        
+                        <img
+                          src="../images/1.png"
+                          alt="desktop"
+                          width="360"
+                          height="300"
+                        />
+                      </picture>
+                    <!-- <img src="./images/1.png" alt="картинка 1" width="360" height="294"> -->
+                </li>
                 <li class="what-we-do-img"><img src="./images/2.png" alt="картинка 2" width="360" height="294"></li>
                 <li class="what-we-do-img"><img src="./images/3.png" alt="картинка 3" width="360" height="294"></li>
             </ul> 
