@@ -891,5 +891,14 @@ a.active-link:after {
     flex-wrap: wrap;
     justify-content: center;
    }
-   
+   .client {
+    flex-wrap: wrap;
+    justify-content: center;
+   }
+   .client-title {
+    width: calc((100% - 120px) / 3);
+   }
+   .footer-logo {
+    flex-wrap: wrap;
+   }
   }
