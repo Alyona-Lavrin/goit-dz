@@ -1055,12 +1055,12 @@ a.active-link:after {
 
 
   @media screen and (max-width: 767px) {
-    
+
     .title-header .div-title-header {
         height: 70px;
     }
     .why-we-features {
-        width: calc((100% - 72px) / 1);
+        width: 100%;
     }
     .why-we {
         text-align: center;
@@ -1075,5 +1075,7 @@ a.active-link:after {
     .header-contacts {
         display: none;
     }
-    
+    .button-email{
+        display: block;
+    }
   } 
