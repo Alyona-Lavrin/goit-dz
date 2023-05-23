@@ -940,10 +940,11 @@ a.active-link:after {
 
 
   @media screen and (max-width: 767px) {
-    .what-we-do {
-        display: none;
-       }
     .why-we-features {
         width: calc((100% - 72px) / 1);
-       }
+    }
+    .why-we {
+        text-align: center;
+    }
+    
   }
