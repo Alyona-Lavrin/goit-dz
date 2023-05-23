@@ -943,5 +943,7 @@ a.active-link:after {
     .what-we-do {
         display: none;
        }
-
+    .why-we-features {
+        width: calc((100% - 72px) / 1);
+       }
   }
