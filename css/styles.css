@@ -1055,8 +1055,7 @@ a.active-link:after {
 
 
   @media screen and (max-width: 767px) {
-    
-    .title-header .div-title-header{
+    .title-header .div-title-header {
         height: 70px;
     }
     .why-we-features {
