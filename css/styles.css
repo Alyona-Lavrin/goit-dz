@@ -887,7 +887,6 @@ a.active-link:after {
 
   .menu-toggle.js-close-menu {
     box-sizing: border-box;
-    background: var(--title-header);
     border: 1px solid var(--studio);
     color: var(--studio);
   }
