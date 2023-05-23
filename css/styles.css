@@ -847,13 +847,6 @@ a.active-link:after {
     border-radius: 50%;
     outline: none;
   }
-  .menu-toggle.js-close-menu {
-    box-sizing: border-box;
-    background: var(--title-header);
-    opacity: 0.1;
-    border: 1px solid var(--studio);
-    background: var(--studio);
-  }
   
   @media (min-width: 768px) {
     .menu-toggle {
@@ -890,6 +883,14 @@ a.active-link:after {
     top: 16px;
     right: 16px;
     color: #fff;
+  }
+
+  .menu-toggle.js-close-menu {
+    box-sizing: border-box;
+    background: var(--title-header);
+    opacity: 0.1;
+    border: 1px solid var(--studio);
+    color: var(--studio);
   }
   
   .mobile-menu {
