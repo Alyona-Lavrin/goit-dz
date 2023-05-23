@@ -833,8 +833,8 @@ a.active-link:after {
   /* button-burger*/
 
   .menu-toggle {
-    min-height: 40px;
-    min-width: 40px;
+    min-height: 24px;
+    min-width: 24px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -848,12 +848,11 @@ a.active-link:after {
     outline: none;
   }
   .menu-toggle.js-close-menu {
-    height: 24px;
-    width: 24px;
     box-sizing: border-box;
     background: var(--title-header);
     opacity: 0.1;
     border: 1px solid var(--studio);
+    background: var(--studio);
   }
   
   @media (min-width: 768px) {
