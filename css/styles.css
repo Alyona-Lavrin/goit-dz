@@ -875,6 +875,7 @@ a.active-link:after {
   
   .menu-container.is-open {
     transform: translateX(0);
+    overflow: auto;
   }
   
   .menu-container .menu-toggle {
@@ -918,6 +919,7 @@ a.active-link:after {
     line-height: 40px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    margin-bottom: 40px;
   }
   .email-mobile-menu {
     font-family: 'Roboto';
@@ -927,6 +929,13 @@ a.active-link:after {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: var(--body);
+    margin-bottom: 48px;
+  }
+  .menu-container .social-icon .icon {
+    margin-right: 56px;
+  }
+  .menu-container .social-icon .icon:last-child {
+    margin-right: 0;
   }
 
 /**
