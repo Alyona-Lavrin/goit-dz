@@ -946,5 +946,9 @@ a.active-link:after {
     .why-we {
         text-align: center;
     }
+    .why-we-p {
+        width: 396px;
+        margin: auto;
+    }
     
   }
