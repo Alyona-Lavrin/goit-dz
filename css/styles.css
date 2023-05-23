@@ -913,4 +913,27 @@ a.active-link:after {
     margin-right: 40px;
     margin-top: 72px;
    }
+   .why-we-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--studio);
+    flex: none;
+   }
+   .why-we-p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: var(--body);
+    flex: none;
+    order: 1;
+    align-self: stretch;
+   }
   }
