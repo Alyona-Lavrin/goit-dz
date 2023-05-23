@@ -940,8 +940,8 @@ a.active-link:after {
 
 
   @media screen and (max-width: 767px) {
-    .why-we-cont {
+    .what-we-do {
         display: none;
        }
-       
+
   }
