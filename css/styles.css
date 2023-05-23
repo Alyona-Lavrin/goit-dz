@@ -898,14 +898,14 @@ a.active-link:after {
     text-transform: capitalize;
     color: var(--studio);
   }
-  .active-mobile-menu.link {
-    color: var(--hover-focus);
-  }
   .mobile-menu .link {
     display: block;
     padding: 10px;
     color: var(--studio);
     text-decoration: none;
+  }
+  .mobile-menu .active-mobile-menu.link {
+    color: var(--hover-focus);
   }
   .contacts-mobile-menu {
     color: var(--logo);
