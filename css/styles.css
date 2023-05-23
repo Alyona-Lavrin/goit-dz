@@ -897,13 +897,14 @@ a.active-link:after {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--studio);
-    margin-bottom: 40px;
+    margin-bottom: 284px;
   }
   .mobile-menu .link {
     display: block;
     padding: 10px;
     color: var(--studio);
     text-decoration: none;
+    margin-bottom: 40px;
   }
   .mobile-menu .active-mobile-menu.link {
     color: var(--hover-focus);
