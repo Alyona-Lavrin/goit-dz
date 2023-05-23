@@ -897,6 +897,7 @@ a.active-link:after {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--studio);
+    margin-bottom: 40px;
   }
   .mobile-menu .link {
     display: block;
