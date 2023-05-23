@@ -937,3 +937,11 @@ a.active-link:after {
     align-self: stretch;
    }
   }
+
+
+  @media screen and (max-width: 767px) {
+    .why-we-cont {
+        display: none;
+       }
+       
+  }
