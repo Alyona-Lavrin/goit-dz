@@ -888,13 +888,44 @@ a.active-link:after {
     padding: 0;
     margin: 0;
     list-style: none;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--studio);
+  }
+  .mobile-menu:hover, .mobile-menu:focus {
+    color: var(--hover-focus);
   }
   
   .mobile-menu .link {
     display: block;
     padding: 10px;
-    color: #fff;
+    color: var(--studio);
     text-decoration: none;
+  }
+  .contacts-mobile-menu {
+    color: var(--logo);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+  }
+  .email-mobile-menu {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: var(--body);
   }
 
 /**
