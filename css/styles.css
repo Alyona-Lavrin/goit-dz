@@ -509,9 +509,6 @@ a.active-link:after {
 .social-icon-itfl {
     fill: var(--CLOUD);
 }
-.social-icon-bur {
-    fill: var(--logo);
-}
 .customers {
     padding-top: 120px; 
     padding-bottom: 120px;
