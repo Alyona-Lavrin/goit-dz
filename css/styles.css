@@ -898,7 +898,7 @@ a.active-link:after {
     text-transform: capitalize;
     color: var(--studio);
   }
-  .active-mobile-menu {
+  .active-mobile-menu.link {
     color: var(--hover-focus);
   }
   .mobile-menu .link {
