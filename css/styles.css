@@ -1078,4 +1078,10 @@ a.active-link:after {
     .button-email{
         display: block;
     }
-  } 
+    .title-footer {
+        margin-bottom: 72px;
+    }
+    .username {
+        margin-bottom: 16px;
+    }
+}
