@@ -1109,4 +1109,7 @@ a.active-link:after {
     .subscribe {
         margin-right: 0;
     }
+    .subscribe-button {
+        margin: auto;
+    }
 }
