@@ -1051,6 +1051,10 @@ a.active-link:after {
     order: 1;
     align-self: stretch;
    }
+   .address-list {
+    text-align: right;
+    display: block;
+   }
   }
 
 
