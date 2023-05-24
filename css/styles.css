@@ -142,7 +142,7 @@ main {
     padding-top: 200px;
     padding-bottom: 200px;
     padding: 188px 0;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpg.png);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/first-section-bg/people-office.jpg);
     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center; 
@@ -954,33 +954,33 @@ a.active-link:after {
 @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .full-width {
     background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-      url(../images/first-section-bg/bg-img_sm-@2x.jpg);
+      url(../images/first-section-bg/desctop/people-office_1desctop-@2x.jpg);
   }
 }
 
   @media screen and (min-width: 481px) {
     .full-width {
     background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-      url(../images/first-section-bg/bg-img_md-@1x.jpg);
+      url(../images/first-section-bg/mob/dark-bgmob-@1x.jpg);
     }
 }
     @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .full-width {
         background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-        url(../images/first-section-bg/bg-img_md-@2x.jpg);
+        url(../images/first-section-bg/mob/dark-bgmob-@2x.jpg);
     }
   }
 
   @media screen and (min-width: 769px) {
     .full-width {
     background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-      url(../images/first-section-bg/bg-img_lg-@1x.jpg);
+      url(../images/first-section-bg/tabl/dark-bgtab-@1x.jpg);
     }
   }
   @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .full-width { 
     background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-        url(./images/first-section-bg/bg-img_lg-@2x.jpg);
+        url(../images/first-section-bg/tabl/dark-bgtab-@2x.jpg);
     }
   }
 
