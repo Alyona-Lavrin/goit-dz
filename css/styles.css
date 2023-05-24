@@ -1094,7 +1094,19 @@ a.active-link:after {
         margin-bottom: 72px;
     }
     .username {
+        width: 100%;
+        margin-right: 0;
         margin-bottom: 16px;
         opacity: 0.3;
+    }
+    .footer-logo {
+        display: block;
+        text-align: center;
+    }
+    .footer-content .logo {
+        margin-right: 0;
+    }
+    .subscribe {
+        margin-right: 0;
     }
 }
