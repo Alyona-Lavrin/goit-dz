@@ -1005,6 +1005,7 @@ a.active-link:after {
    .team-list {
     flex-wrap: wrap;
     justify-content: center;
+    gap: 64px 24px;
    }
    .client {
     flex-wrap: wrap;
