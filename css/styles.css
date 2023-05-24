@@ -953,33 +953,33 @@ a.active-link:after {
   
 @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .full-width {
-    background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    background-image: linear-gradient(to right, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
       url(../images/first-section-bg/desctop/people-office_1desctop-@2x.jpg);
   }
 }
 
   @media screen and (min-width: 481px) {
     .full-width {
-    background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    background-image: linear-gradient(to right, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
       url(../images/first-section-bg/mob/dark-bgmob-@1x.jpg);
     }
 }
     @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .full-width {
-        background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+        background-image: linear-gradient(to right, rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),
         url(../images/first-section-bg/mob/dark-bgmob-@2x.jpg);
     }
   }
 
   @media screen and (min-width: 769px) {
     .full-width {
-    background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    background-image: linear-gradient(to right, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
       url(../images/first-section-bg/tabl/dark-bgtab-@1x.jpg);
     }
   }
   @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .full-width { 
-    background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    background-image: linear-gradient(to right, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
         url(../images/first-section-bg/tabl/dark-bgtab-@2x.jpg);
     }
   }
