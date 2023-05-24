@@ -1072,6 +1072,9 @@ a.active-link:after {
     .navbar {
         display: none;
     }
+    .features {
+        gap: 72px
+     }
     .team-list {
         gap: 72px 24px;
     }
