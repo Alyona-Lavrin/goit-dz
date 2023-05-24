@@ -1073,8 +1073,11 @@ a.active-link:after {
         display: none;
     }
     .client-title {
-        width: calc((100% - 120px) / 2);
+        width: calc((100% - 24px) / 2);
        }
+    .client {
+        gap: 72px 24px;
+    }
     .header-contacts {
         display: none;
     }
