@@ -1072,6 +1072,9 @@ a.active-link:after {
     .navbar {
         display: none;
     }
+    .client-title {
+        width: calc((100% - 120px) / 2);
+       }
     .header-contacts {
         display: none;
     }
@@ -1083,5 +1086,6 @@ a.active-link:after {
     }
     .username {
         margin-bottom: 16px;
+        opacity: 0.3;
     }
 }
