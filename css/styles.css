@@ -995,7 +995,7 @@ a.active-link:after {
     line-height: 1.07;
     letter-spacing: 0.02em;
 }
-   .container {
+   .team-wrap .container {
     width: 552px;
    }
    .why-we .features {
