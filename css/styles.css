@@ -1137,8 +1137,12 @@ a.active-link:after {
     .img {
         width: 100%;
     }
+    .why-we {
+        padding: 96px 0;
+    }
     .why-we-p {
         width: 100%;
+        text-align: left;
     }
     .contacts-mobile-menu {
         font-size: 30px;
