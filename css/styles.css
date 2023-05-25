@@ -986,6 +986,15 @@ a.active-link:after {
 
 
   @media (max-width: 1158px) {
+
+    .main-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
    .container {
     width: 100%;
    }
@@ -1061,6 +1070,12 @@ a.active-link:after {
 
   @media screen and (max-width: 767px) {
 
+    .main-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    }
     .title-header .div-title-header {
         height: 70px;
     }
