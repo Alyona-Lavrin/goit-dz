@@ -1073,6 +1073,8 @@ a.active-link:after {
     align-self: stretch;
    }
    .address-list {
+    font-size: 12px;
+    color: var(--body);
     text-align: right;
     display: block;
    }
