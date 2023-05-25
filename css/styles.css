@@ -1137,4 +1137,13 @@ a.active-link:after {
     .why-we-p {
         width: 100%;
     }
+    .contacts-mobile-menu {
+        font-size: 30px;
+    }
+    .social-icon {
+        gap: 30px;
+    }
+    .menu-container .social-icon .icon {
+    margin-right: 0;
+    }
 }
