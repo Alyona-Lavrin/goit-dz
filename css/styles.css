@@ -988,7 +988,7 @@ a.active-link:after {
   @media (max-width: 1158px) {
 
     a.active-link:after {
-        bottom: -14px;
+        bottom: -3px;
     }
     .main-title {
     font-family: 'Roboto';
@@ -1080,7 +1080,10 @@ a.active-link:after {
 
 
   @media screen and (max-width: 767px) {
-    
+
+     a.active-link:after {
+        bottom: -14px;
+    }
     .container, .team-wrap .container, .customers .container {
         width: 100%;
         padding: 16px;
