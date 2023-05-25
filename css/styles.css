@@ -1076,6 +1076,10 @@ a.active-link:after {
     text-align: right;
     display: block;
    }
+   
+   .address-list li {
+    display: block;
+   }
   }
 
 
