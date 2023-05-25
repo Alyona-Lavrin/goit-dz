@@ -1000,6 +1000,7 @@ a.active-link:after {
     }
    .team-wrap .container {
         width: 552px;
+        padding: 0;
     }
    .why-we .features {
     width: 100%;
