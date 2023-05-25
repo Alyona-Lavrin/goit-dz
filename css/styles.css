@@ -1133,3 +1133,8 @@ a.active-link:after {
         margin: auto;
     }
 }
+@media screen and (max-width: 767px) {
+    .why-we-p {
+        width: 100%;
+    }
+}
