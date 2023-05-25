@@ -1070,7 +1070,7 @@ a.active-link:after {
 
   @media screen and (max-width: 767px) {
 
-    .main-title {
+    .full-width .main-title {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
