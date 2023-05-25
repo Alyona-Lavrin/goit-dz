@@ -995,9 +995,12 @@ a.active-link:after {
     line-height: 1.07;
     letter-spacing: 0.02em;
 }
+    .container {
+        width: 100%;
+    }
    .team-wrap .container {
-    width: 552px;
-   }
+        width: 552px;
+    }
    .why-we .features {
     width: 100%;
     flex-wrap: wrap;
