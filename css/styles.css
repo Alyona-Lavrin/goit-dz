@@ -1078,7 +1078,7 @@ a.active-link:after {
 
   @media screen and (max-width: 767px) {
     
-    .container {
+    .container, .team-wrap .container, .customers .container {
         width: 100%;
     }
     .full-width .main-title {
