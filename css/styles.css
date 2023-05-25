@@ -1073,7 +1073,11 @@ a.active-link:after {
     align-self: stretch;
    }
    .address-list {
+    font-style: normal;
+    font-weight: 400;
     font-size: 12px;
+    line-height: 1.16;
+    letter-spacing: 0.04em;
     color: var(--body);
     text-align: right;
     display: block;
