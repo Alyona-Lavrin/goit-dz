@@ -1134,7 +1134,7 @@ a.active-link:after {
     }
 }
 @media screen and (max-width: 480px) {
-    .img {
+    .member img {
         width: 100%;
     }
     .why-we {
