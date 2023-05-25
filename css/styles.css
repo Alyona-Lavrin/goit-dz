@@ -1080,6 +1080,7 @@ a.active-link:after {
     
     .container, .team-wrap .container, .customers .container {
         width: 100%;
+        padding: 16px;
     }
     .full-width .main-title {
     font-size: 36px;
