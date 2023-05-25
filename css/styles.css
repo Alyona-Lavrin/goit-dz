@@ -996,7 +996,7 @@ a.active-link:after {
     letter-spacing: 0.02em;
 }
    .container {
-    width: 100%;
+    width: 552px;
    }
    .why-we .features {
     width: 100%;
@@ -1069,7 +1069,10 @@ a.active-link:after {
 
 
   @media screen and (max-width: 767px) {
-
+    
+    .container {
+        width: 100%;
+    }
     .full-width .main-title {
     font-size: 36px;
     line-height: 1.11;
