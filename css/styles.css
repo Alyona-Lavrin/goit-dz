@@ -994,7 +994,9 @@ a.active-link:after {
     .title-header .div-title-header {
         align-items: center;
     }
-
+    .full-width {
+        padding: 112px 0;
+    }
     a.active-link:after {
         bottom: -2px;
     }
