@@ -1190,6 +1190,9 @@ a.active-link:after {
     .modal-window{
         width: calc(100% - 15px);
     }
+    .full-width .main-title  {
+        width: 320px;
+     }
     .member img {
         width: 100%;
     }
