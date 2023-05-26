@@ -1107,6 +1107,8 @@ a.active-link:after {
     }
     .title-header .div-title-header {
         height: 70px;
+        padding-left: 16px;
+        padding-right: 16px;
     }
     .why-we-features {
         width: 100%;
