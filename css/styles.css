@@ -1165,6 +1165,9 @@ a.active-link:after {
     .member img {
         width: 100%;
     }
+    .container {
+        padding: 0;
+    }
     .why-we {
         padding: 96px 0;
     }
