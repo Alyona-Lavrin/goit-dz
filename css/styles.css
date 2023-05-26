@@ -1163,7 +1163,9 @@ a.active-link:after {
     }
 }
 @media screen and (max-width: 480px) {
-   
+    .full-width {
+        padding: 137px 0;
+    }
     .member img {
         width: 100%;
     }
