@@ -1168,6 +1168,9 @@ a.active-link:after {
     .container {
         padding: 0;
     }
+    .main-title {
+        width: 320px;
+    }
     .why-we {
         padding: 96px 0;
     }
