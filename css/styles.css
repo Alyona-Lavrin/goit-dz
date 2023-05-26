@@ -1227,7 +1227,7 @@ a.active-link:after {
 @media screen and (max-width: 420px) {
     
     .full-width .main-title {
-        font-size: 31px;
+        font-size: 28px;
     }
     .chec-title {
         position: relative;
