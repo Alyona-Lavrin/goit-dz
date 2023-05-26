@@ -1185,15 +1185,19 @@ a.active-link:after {
         text-align: left;
     }
     .contacts-mobile-menu {
-        font-size: 30px;
+        font-size: 26px;
     }
     .social-icon {
         gap: 30px;
+    }
+    .menu-container{
+        display: flex;
+        flex-direction: column;
     }
     .menu-container .social-icon .icon {
     margin-right: 0;
     }
     .mobile-menu {
-    margin-bottom: 200px;
-}
+        margin-bottom: auto;
+    }
 }
