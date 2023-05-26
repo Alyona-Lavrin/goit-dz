@@ -1220,6 +1220,9 @@ a.active-link:after {
     }
 }
 @media screen and (max-width: 420px) {
+    .modal-window{
+        width: calc(100% - 15px);
+    }
     .full-width .main-title {
         font-size: 28px;
     }
