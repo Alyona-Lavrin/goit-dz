@@ -1101,10 +1101,17 @@ a.active-link:after {
     display: block;
     margin-bottom: 5px;
    }
+   .customers {
+    padding-top: 96px; 
+    padding-bottom: 96px;
+}
   }
 
 
   @media screen and (max-width: 767px) {
+    .team-wrap {
+        padding: 96px 0;
+    }
 
      a.active-link:after {
         bottom: -3px;
