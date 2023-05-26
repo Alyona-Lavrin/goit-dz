@@ -1214,6 +1214,18 @@ a.active-link:after {
 }
 @media screen and (max-width: 420px) {
     .full-width .main-title {
-        font-size: 25px;
+        font-size: 28px;
     }
+    .chec-title {
+        position: relative;
+    }
+    .form-custom-check {
+        position: absolute;
+
+    }
+    .form-agreement-text {
+        padding-left: 25px;
+        display: block;
+    }
+
 }
