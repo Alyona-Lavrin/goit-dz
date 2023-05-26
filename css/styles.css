@@ -1195,7 +1195,7 @@ a.active-link:after {
         gap: 30px;
         justify-content: flex-start;
     }
-    .menu-container{
+    .menu-container.js-menu-container.is-open{
         display: flex;
         flex-direction: column;
     }
