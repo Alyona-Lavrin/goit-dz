@@ -1189,6 +1189,7 @@ a.active-link:after {
     }
     .social-icon {
         gap: 30px;
+        justify-content: flex-start;
     }
     .menu-container{
         display: flex;
