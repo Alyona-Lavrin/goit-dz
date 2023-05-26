@@ -1201,3 +1201,8 @@ a.active-link:after {
         margin-bottom: auto;
     }
 }
+@media screen and (max-width: 420px) {
+    .full-width .main-title {
+        font-size: 25px;
+    }
+}
