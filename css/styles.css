@@ -1111,6 +1111,7 @@ a.active-link:after {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    width: 100%;
     }
     .title-header .div-title-header {
         height: 70px;
