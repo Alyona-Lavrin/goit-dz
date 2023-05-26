@@ -988,7 +988,7 @@ a.active-link:after {
   @media (max-width: 1158px) {
 
     a.active-link:after {
-        bottom: -7px;
+        bottom: -13px;
     }
     .main-title {
     font-family: 'Roboto';
